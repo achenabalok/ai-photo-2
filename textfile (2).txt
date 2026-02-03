@@ -1,0 +1,101 @@
+{
+  "prompt": {
+    "scene": {
+      "type": "mirror selfie",
+      "location": "luxurious marble bathroom",
+      "framing": "waist-up portrait",
+      "camera_angle": "slightly angled, natural handheld perspective",
+      "composition": "subject centered with subtle asymmetry from mirror reflection"
+    },
+    "subject": {
+      "identity": {
+        "face_reference": "USE UPLOADED IMAGE AS THE ONLY AND EXACT FACE REFERENCE",
+        "face_lock": true,
+        "no_identity_change": true,
+        "no_facial_structure_change": true,
+        "no_expression_change": true
+      },
+      "appearance": {
+        "gender": "female",
+        "age": "young adult",
+        "skin_tone": "very fair",
+        "skin_details": "natural freckles visible across face and shoulders",
+        "body_type": "slim, delicate build",
+        "hair": {
+          "color": "light red",
+          "style": "loose, slightly messy updo",
+          "details": "soft strands falling naturally around the face, just-finished look"
+        },
+        "expression": {
+          "mood": "calm, thoughtful, subtly introspective",
+          "eyes": "gently focused, looking at phone screen",
+          "lips": "relaxed, natural"
+        }
+      },
+      "pose": {
+        "head": "turned slightly to the side",
+        "body": "relaxed posture",
+        "hands": {
+          "right_hand": "holding smartphone with a light-colored patterned case",
+          "left_hand": "resting lightly over towel to secure it modestly"
+        }
+      },
+      "wardrobe": {
+        "outfit": "plush white bath towel",
+        "fit": "wrapped securely across the chest",
+        "style": "modest, natural, intimate"
+      }
+    },
+    "environment": {
+      "materials": [
+        "warm beige marble walls",
+        "large wall mirror",
+        "glass shower enclosure",
+        "reflective sink counter"
+      ],
+      "fixtures": "classic, upscale hotel-style bathroom fixtures",
+      "architecture": "clean lines with refined ceiling details"
+    },
+    "lighting": {
+      "type": "soft warm ambient lighting",
+      "sources": [
+        "overhead fixtures",
+        "wall-mounted lamp"
+      ],
+      "effect": "gentle glow on skin, highlights collarbones, shoulders, and facial features",
+      "shadows": "soft, minimal, no harsh contrast"
+    },
+    "color_palette": {
+      "primary": [
+        "creamy whites",
+        "soft beiges",
+        "muted gold tones"
+      ],
+      "overall_feel": "warm, neutral, calm"
+    },
+    "style": {
+      "aesthetic": "intimate, elegant, quietly confident",
+      "vibe": "private, candid, upscale hotel atmosphere",
+      "realism": "high realism, natural skin texture"
+    },
+    "quality": {
+      "detail_level": "ultra-detailed",
+      "resolution": "high resolution",
+      "photorealism": true
+    }
+  },
+  "negative_prompt": [
+    "face alteration",
+    "identity change",
+    "different person",
+    "exaggerated makeup",
+    "overexposed lighting",
+    "harsh shadows",
+    "sexualized pose",
+    "nudity beyond towel",
+    "distorted anatomy",
+    "blurred face",
+    "cartoon style",
+    "anime style"
+  ]
+}
